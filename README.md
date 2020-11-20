@@ -1,0 +1,2 @@
+# testeInit
+Prática de aprendizado
